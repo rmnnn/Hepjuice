@@ -1,0 +1,48 @@
+{
+    "knowledgeBases": [
+      {
+        "name": "Alteia",
+        "image": "alteia_image.jpg",
+        "link": "https://example.com/alteia-kb",
+        "description": "Short description for Alteia knowledge base.",
+        "backendImage": "alteia_backend_image.jpg",
+        "backendLink": "https://example.com/alteia-backend"
+      },
+      {
+        "name": "Another KB",
+        "image": "another_kb_image.jpg",
+        "link": "https://example.com/another-kb",
+        "description": "Short description for Another KB.",
+        "backendImage": "another_kb_backend_image.jpg",
+        "backendLink": "https://example.com/another-kb-backend"
+      }
+      ,
+      {
+        "name": "Another KB",
+        "image": "another_kb_image.jpg",
+        "link": "https://example.com/another-kb",
+        "description": "Short description for Another KB.",
+        "backendImage": "another_kb_backend_image.jpg",
+        "backendLink": "https://example.com/another-kb-backend"
+      }
+      ,
+      {
+        "name": "Another KB",
+        "image": "another_kb_image.jpg",
+        "link": "https://example.com/another-kb",
+        "description": "Short description for Another KB.",
+        "backendImage": "another_kb_backend_image.jpg",
+        "backendLink": "https://example.com/another-kb-backend"
+      }
+      ,
+      {
+        "name": "Another KB",
+        "image": "another_kb_image.jpg",
+        "link": "https://example.com/another-kb",
+        "description": "Short description for Another KB.",
+        "backendImage": "another_kb_backend_image.jpg",
+        "backendLink": "https://example.com/another-kb-backend"
+      }
+    ]
+  }
+  
